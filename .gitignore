@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Shell / editor temp
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+
+# Build / cache
+tmp/
+.cache/
